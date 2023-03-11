@@ -15,4 +15,7 @@
 - OpenVibe BCI software
   - [Docs](http://openvibe.inria.fr/documentation-index/)
   - [Download (Windows only)](http://openvibe.inria.fr/downloads/)
-
+- MNE-Python
+  - [Python-based EEG analysis package, with some BCI/ML functionaltiy](https://mne.tools/stable/index.html)
+- PsychoPy
+  - [Stimulus presentation package](https://www.psychopy.org/)
