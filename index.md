@@ -9,6 +9,7 @@
 - [Acticap - all positions labelled](assets/montages/actiCAP-64ch_montage.pdf)
 
 ## Software
+- [Brainhack-2023 GitHub repositories](https://github.com/orgs/SURGE-brainhack23/repositories)
 - OpenBCI GUI
   - [Docs](https://docs.openbci.com/Software/OpenBCISoftware/GUIDocs/)
   - [Download App (Windows/Mac/Linux)](https://openbci.com/downloads)
